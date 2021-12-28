@@ -6,7 +6,7 @@ With my file, you can organise 1vs1 duel with your friend on fair and improved r
 - half-match screen will be disabled to speed up the match
 - global Voice-Chat will be enabled (so you can talk with your enemy during the match)
 
-And many, many more - **all toggleable** and **changeable inside the script**, based on your own preferences!
+And many, many more - **all toggleable and changeable inside the script, based on your own preferences!**
 
 If you want to edit my script, just open `1vs1.cfg` file using any text editor and change every parameter you want!
 
