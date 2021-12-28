@@ -1,4 +1,4 @@
-#1vs1 Script  - world famous CS:GO gamemode in 1 simple command!
+# 1vs1 Script  - world famous CS:GO gamemode in 1 simple command!
 
 1vs1 Script is a small file that lets you setup 1vs1 gamemode on your private CS:GO server using one easy to remember command.
 
