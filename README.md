@@ -5,7 +5,6 @@
 With my script, you can organise 1vs1 duel with your friend on fair and improved rules on any map you choose. After loading my script on the server:
 - teams won't be automatically balanced
 - half-match screen will be disabled to speed up the match
-- global Voice-Chat will be enabled (so you can talk with your enemy during the match)
 
 And many, many more - **all toggleable and changeable inside the script, based on your own preferences!**
 
