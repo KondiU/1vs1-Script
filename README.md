@@ -1,7 +1,7 @@
 # 1vs1-Script
-🤼‍♂️ **1vs1 Script is a small file that lets you setup 1vs1 gamemode on your private CS:GO server using one easy to remember command.**
+🤼‍♂️ 1vs1 Script is a small file that lets you setup 1vs1 gamemode on your private CS:GO server using one easy to remember command.
 
-With my file, you can organise 1vs1 duel with your friend on fair and improved rules on any map you choose. After loading my script on the server:
+With my script, you can organise 1vs1 duel with your friend on fair and improved rules on any map you choose. After loading my script on the server:
 - teams won't be automatically balanced
 - half-match screen will be disabled to speed up the match
 - global Voice-Chat will be enabled (so you can talk with your enemy during the match)
