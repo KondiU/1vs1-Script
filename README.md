@@ -9,3 +9,5 @@ With my script, you can organise 1vs1 duel with your friend on fair and improved
 And many, many more - **all toggleable and changeable inside the script, based on your own preferences!**
 
 🔰 **This script is 100% safe and legal, you can't get banned because of it on any server besides its secured by VAC, Easy Anti-Cheat, FACEIT AC or any other possible anticheat application. It also won't change any of your personal CS:GO settings.**
+
+For support & troubleshooting, **join the UPROJECTS Discord server!** https://discord.gg/rUXp25hfbe
